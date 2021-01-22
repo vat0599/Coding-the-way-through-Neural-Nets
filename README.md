@@ -1,4 +1,4 @@
-#Neural Network Visualizer - A step to understand DL better
+# Neural Network Visualizer - A step to understand DL better
 
 ## A small talk:
 This repository contains my learnings of neural networks since I started learning about them in 2018 and tried visualizing them through coding. I believe the best way to learn something is by actually having a hands-on experience. We generally have one idea while programming, but end up getting multiple errors. These errors generally help us in understanding quite a lot more than what we planned and helps us more than what we expected. Thus on that note, I have tried to hard code a lot of concepts from scratch using basic numpy implementation. Many worked after a lot of effort and I thought of sharing my work to the community, so that new learners have a better understanding of the building blocks of neural nets.
